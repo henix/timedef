@@ -33,3 +33,7 @@ Java's standard library is deeply integrated with the [TimeUnit](https://docs.or
 
 * [Future.get](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Future.html#get-long-java.util.concurrent.TimeUnit-)
 * [ScheduledExecutorService.schedule](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ScheduledExecutorService.html#schedule-java.lang.Runnable-long-java.util.concurrent.TimeUnit-)
+
+## License
+
+MIT
